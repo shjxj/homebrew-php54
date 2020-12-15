@@ -40,7 +40,7 @@ class PhpAT54 < Formula
 
   # PHP build system incorrectly links system libraries
   # see https://github.com/php/php-src/pull/3472
-  patch :DATA
+  # patch :DATA
 
   # needs :cxx11
 
